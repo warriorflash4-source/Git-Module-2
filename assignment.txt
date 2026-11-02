@@ -1,0 +1,2 @@
+This is my Module 2 Git assignment.
+I am learning branching, commits, and GitHub collaboration.
